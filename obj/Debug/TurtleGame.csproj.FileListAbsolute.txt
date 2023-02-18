@@ -1,0 +1,10 @@
+C:\Users\Ckd4\source\repos\TurtleGame\bin\Debug\TurtleGame.exe.config
+C:\Users\Ckd4\source\repos\TurtleGame\bin\Debug\TurtleGame.exe
+C:\Users\Ckd4\source\repos\TurtleGame\bin\Debug\TurtleGame.pdb
+C:\Users\Ckd4\source\repos\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Ckd4\source\repos\TurtleGame\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Ckd4\source\repos\TurtleGame\obj\Debug\TurtleGame.csproj.AssemblyReference.cache
+C:\Users\Ckd4\source\repos\TurtleGame\obj\Debug\TurtleGame.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\source\repos\TurtleGame\obj\Debug\TurtleGame.csproj.CopyComplete
+C:\Users\Ckd4\source\repos\TurtleGame\obj\Debug\TurtleGame.exe
+C:\Users\Ckd4\source\repos\TurtleGame\obj\Debug\TurtleGame.pdb
